@@ -14,4 +14,4 @@ User permission level i.e. Tasks displayed on the calendar can be filtered here 
 
 At a superuser level, you can easily drag and drop different tasks across the calendar assigning them to different users
 
-![Calendar](/docs/assets/calendar.png)
+![Calendar](/static/img/assets/calendar.png)

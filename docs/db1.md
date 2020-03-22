@@ -11,10 +11,10 @@ To get started, the first thing to do while familiarising yourself with the GECK
 ## First half of Dashboard Section
 
 Full screen option icon
-![On SignUp](/docs/assets/fullScreen.png)
+![On SignUp](/static/img/assets/fullScreen.png)
 
 User icon with a dropdown 
-![On SignUp](/docs/assets/userIcon.png)
+![On SignUp](/static/img/assets/userIcon.png)
 
 ‘Open Tasks’ - Number of tasks an individual user is working on 
 
@@ -27,5 +27,5 @@ Manage fund Categories, Workflows and Users assigned to a project
 Filter by project function - Filtering ‘Tasks by project’. i.e. Centralised / birds eye view     depending on your permission level and tasks that have to be completed for each stage of      the process / workflow based on the traffic light system.
 
 We can use the drop-down menu to select a specific project to oversee the exact projects         that you are permissioned to work on. Presented as a pie chart we can see the number of          tasks that are **In Progress**, **Completed** and **Overdue**.
-![Dashboard](/docs/assets/dashboard.png)
+![Dashboard](/static/img/assets/dashboard.png)
 

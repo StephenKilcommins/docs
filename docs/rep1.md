@@ -13,9 +13,9 @@ Select Generate when you are happy to run a report based on the data selected
 
 
 Generated report (below)
-![Report](/docs/assets/report.png)
+![Report](/static/img/assets/report.png)
 
 You can click ‘Return’ to go back to ‘Task Reports’ and run another report
-![Report](/docs/assets/reportUser.png)
+![Report](/static/img/assets/reportUser.png)
 
 Or you can export the report in **PDF** format too.

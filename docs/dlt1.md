@@ -12,4 +12,4 @@ Click on ‘DLT Audits’ and see how activity can be tracked within Projects / 
 
 Full audit trail of activity is available for each Project / Fund / Task with the exact time and date it was modified.
 
-![DLT](/docs/assets/dlt.png)
+![DLT](/static/img/assets/dlt.png)
