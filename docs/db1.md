@@ -3,6 +3,7 @@ id: db1
 title: Dashboard
 sidebar_label: Dashboard
 ---
+
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Navigation Menu

@@ -3,6 +3,7 @@ id: db2
 title: Dashboard Second-half
 sidebar_label: Project and tasks
 ---
+
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Activity and Projects Assigned to You

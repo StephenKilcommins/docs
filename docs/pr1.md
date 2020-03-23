@@ -3,7 +3,9 @@ id: pr1
 title: Projects
 sidebar_label: Projects
 ---
+
 import useBaseUrl from '@docusaurus/useBaseUrl';
+
 ## Projects
 
 Once you click on ‘Projects’ from the navigation pane you have the option to Browse Projects, view current Workflows, Categories, Statuses and Clients. 

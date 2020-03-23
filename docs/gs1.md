@@ -3,6 +3,7 @@ id: gs1
 title: First time Setup
 sidebar_label: Get started
 ---
+
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Initial Setup

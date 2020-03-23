@@ -3,7 +3,9 @@ id: gs2
 title: Finalize the User Setup
 sidebar_label: Next Steps
 ---
+
 import useBaseUrl from '@docusaurus/useBaseUrl';
+
 ## On Logging in
 
 
