@@ -82,7 +82,7 @@ function Home() {
       description="Description will go into a meta tag in <head />">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-        <img alt="GECKO" class="gecko" src="img/gecko.svg"></img>
+        <img alt="GECKO" class="gecko" src="img/geckoWhite.png"></img>
           {/*<h1 className="hero__title">{siteConfig.title}</h1>*/}
           <h1 className="hero__title">
           Fetch 
