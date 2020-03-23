@@ -13,4 +13,4 @@ Select a Project to view the list of tasks associated with each fund.
 
 Files – displays any files attached to specific Tasks within a Project.
 
-![Folder](/static/img/assets/folder.png)
+![Folder](/static/img/folder.png)

@@ -11,4 +11,4 @@ Please make sure to edit your username and change your avatar as desired. It wil
 
 There are other fields available too, to keep your profile up to date.
 
-![On SignUp](/static/img/assets/userDetails.png)
+![On SignUp](/static/img/userDetails.png)

@@ -24,7 +24,7 @@ The user menu gives you the option to **Browse users, view System roles, Project
 User dashboard displays the number of users
 
 You can **Add, Edit** and **Remove** users
-![Browse-Users](/static/img/assets/browseUsers.png)
+![Browse-Users](/static/img/browseUsers.png)
 
 ## System roles
 This is a list of all predefined roles defining access to elements of system
@@ -32,7 +32,7 @@ This is a list of all predefined roles defining access to elements of system
 You can use the **search** function to filter your search
 
 Edit a name / role by clicking the edit icon and clicking on **Edit**
-![System-Users](/static/img/assets/systemUsers.png)
+![System-Users](/static/img/systemUsers.png)
 
 
 ## Add New System Role
@@ -52,7 +52,7 @@ You can set permissions as to whether that role will allow a user to only **view
 Multiple permissions can be set here by ticking the checkboxes 
 
 Hit “Save” to save changes or cancel to return to the Roles Dashboard
-![Edit-Roles](/static/img/assets/editRoles.png)
+![Edit-Roles](/static/img/editRoles.png)
 
 ## Project roles
 The same process applies for adding and editing project roles
@@ -65,4 +65,4 @@ A group is a collection of users that can be assigned to a Project as a team
 Create multiple groups by clicking **Add Group**
 
 Edit existing groups and users associated to that group by clicking the edit icon
-![Groups](/static/img/assets/groups.png)
+![Groups](/static/img/groups.png)
