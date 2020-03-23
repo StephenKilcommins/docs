@@ -3,7 +3,7 @@ module.exports = {
   tagline: '',
   url: 'https://akshatjen.github.io',
   baseUrl: '/docs/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/geckoWhite.png',
   organizationName: 'AkshatJen', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
