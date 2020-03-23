@@ -28,13 +28,15 @@
   --ifm-hero-background-color: #303846;
 }
 
+.hero_title_blue {
+  color: #4daefd;
+}
+
+
 .button.button--lg {
   border: 2px solid;
   border-color: #4daefd;
   color: #fff;
-  text-align: center;
-
-  display: inline-block;
   line-height: 1.2em;
   text-decoration: none!important;
   text-transform: uppercase;
@@ -51,10 +53,31 @@
   color: #4daefd;
 }
 
+.gecko{
+  max-width: 200px;
+  animation-name: geckoMove;
+  -webkit-animation-name: geckoMove;
+  -webkit-animation-duration: 1.5s;
+  animation-duration: 1.5s;
+}
+
 @media screen and (max-width:450px){
 .hero .hero__title {
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
+.gecko{
+  width: 120px;
+}
+}
+@media screen and (min-width:450px){
+
+  .hero .hero__title {
+    font-size: 2.5rem;
+  }
+  .gecko{
+    float: none;
+    max-width: 200px;
+  }
 }
 
 
@@ -64,6 +87,29 @@
   }
   }
 
-  .hero_title_blue {
-    color: #4daefd;
+
+
+  
+
+  @keyframes geckoMove{
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(.1) rotate(30deg);
+    transform: scale(.1) rotate(30deg);
+    -webkit-transform-origin: center bottom;
+    transform-origin: center bottom;
+}
+50% {
+    -webkit-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+}
+70% {
+    -webkit-transform: rotate(3deg);
+    transform: rotate(3deg);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
   }
