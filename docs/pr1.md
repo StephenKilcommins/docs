@@ -3,11 +3,11 @@ id: pr1
 title: Projects
 sidebar_label: Projects
 ---
-
+import useBaseUrl from '@docusaurus/useBaseUrl';
 ## Projects
 
 Once you click on ‘Projects’ from the navigation pane you have the option to Browse Projects, view current Workflows, Categories, Statuses and Clients. 
-![Projects](/static/img/browseProjects.png)
+<img alt="Projects" src={useBaseUrl('img/browseProjects.png')}/>
 
 ## Browse Projects
 
@@ -16,14 +16,15 @@ Allows you to oversee the Projects assigned to you.
 You can navigate into each Project, ‘Add Project’ and filter to view a fund by Category.
 
 Click on any project to view.
-![Browse-Categories](/static/img/allCat.png)
+<img alt="Browse-Categories" src={useBaseUrl('img/allCat.png')}/>
 
 ## Static Data
 
 Below we have clicked into the project ‘Ocean Dial Investment Funds plc’ displaying the underlying Project workflow which shows all tasks associated with that fund.
 
 The left-hand column displays the **static data** of the fund.
-![Static-Data](/static/img/staticData.png)
+<img alt="Static-Data" src={useBaseUrl('img/staticData.png')}/>
+
 
 Click into any task to view its details.
 
@@ -32,7 +33,7 @@ Click into any task to view its details.
 **Drag and drop** tasks into different stages of the workflow. 
 
 Users assigned to the same task receive **email updates** as you are dragging and dropping tasks into different stages of the workflow
-![Drag-Tasks](/static/img/drag.png)
+<img alt="Drag Tasks" src={useBaseUrl('img/drag.png')}/>
 
 
 
@@ -62,7 +63,7 @@ Create a **Checklist/To Do List** within that task to keep track of responsibili
 To complete adding a task click **Add Task**
 
 **Note: you can edit details within tasks at any time** (Look at the image below relating to adding a new task)
-![Drag-Tasks](/static/img/addNew.png)
+<img alt="Drag Tasks" src={useBaseUrl('img/addNew.png')}/>
 
 
 ## Actioning/Editing Tasks
@@ -73,11 +74,10 @@ Clicking into an existing task will display the granular detail underlying each 
 User can edit the Due Date, Priority, Milestone, Repetition Time, Status and Description 
 
 **Messaging functionality** – users can send messages that are visible to other users assigned to that task
-![Drag-Tasks](/static/img/actionEdit.png)
+<img alt="Drag Tasks" src={useBaseUrl('img/actionEdit.png')}/>
 
 Below this you can “Drop files here to upload” by simply Dragging and Dropping documents/files related to that task
-
-![Drag-Tasks](/static/img/fileUpload.png)
+<img alt="Drag-Tasks" src={useBaseUrl('img/fileUpload.png')}/>
 
 ## Sub Tasks
 **Sub Tasks** is a great feature if there's a need of having a task within a task and it also reduces the amount of tasks that are visible in the project's columns making it more lean and efficient
@@ -112,8 +112,7 @@ Note: you can edit details within your sub-task at any time
 **Tagging** Functionality – adding tags (key words) to tasks to categorise similar tasks and for reporting purposes. Tasks can be searched for via these tags
 
 **Audit Trail of Activity** – any changes made to tasks are recorded and tracked in real-time within the system 
-
-![Drag-Tasks](/static/img/tags.png)
+<img alt="Drag Tasks" src={useBaseUrl('img/tags.png')}/>
 
 
 ## Workflows 
@@ -124,27 +123,26 @@ You can **Add Workflows** by clicking the + Add Workflows button
 You can also Edit/Delete existing workflows
 
 All projects are created using workflows, you can use it as a template when generating new Projects.
-
-![Drag-Tasks](/static/img/workflow.png)
+<img alt="Drag Tasks" src={useBaseUrl('img/workflow.png')}/>
 
 
 ## Categories
 This allows the user to filter Projects by Category. Within the Categories section you can also create the milestones associated with your projects.  
 
 You can Add a new **Category** & **Delete** existing categories
-![Drag-Tasks](/static/img/categories.png)
+<img alt="Drag Tasks" src={useBaseUrl('img/categories.png')}/>
 
 ## Statuses
 You can add different statuses by clicking **Add Status**
 
 **Filter** your status search by using the **Search** functionality
-![Drag-Tasks](/static/img/status.png)
+<img alt="Drag-Tasks" src={useBaseUrl('img/status.png')}/>
 
 
 ## Clients
 You can add different clients by clicking **Add Client**
 
 **Filter** your client search by using the search box functionality
-![Drag-Tasks](/static/img/clients.png)
+<img alt="Drag Tasks" src={useBaseUrl('img/clients.png')}/>
 
 

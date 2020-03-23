@@ -3,7 +3,7 @@ id: fol1
 title: Folders
 sidebar_label: Folder
 ---
-
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Folder is a Repo functionality
 
@@ -13,4 +13,4 @@ Select a Project to view the list of tasks associated with each fund.
 
 Files – displays any files attached to specific Tasks within a Project.
 
-![Folder](/static/img/folder.png)
+<img alt="Folder" src={useBaseUrl('img/folder.png')}/>
